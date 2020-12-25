@@ -9,6 +9,7 @@ first get the script, then prepare a txt file with the instructions inside then,
 ```bash
 ./ffmpeg_merge.sh instructions.txt framerate out.mp4
 ```
+> the script create many tmp files, it deletes all of them at the end
 
 ## instructions
 
