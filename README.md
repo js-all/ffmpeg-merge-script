@@ -21,5 +21,5 @@ i:./image1.png 5        # the first character is always i or v, i if its an imag
 v:./video.mp4           # after it, there alays is a : then the path to the file. If the file is an
 i:./image2.png 2:00     # image (i at the start) there will be a number at the end specifying the
 v:./video2.mp4          # duration that it will be displayed for (in ffmpeg time notation: plain
-i:./otherimage.png 0.5  # number of seconds or minutes:seconds and if needed decimaals)
+i:./otherimage.png 0.5  # number of seconds or minutes:seconds and if needed decimals)
 ```
